@@ -32,5 +32,3 @@ int main(){
         MESS.Push(_task);
         sleep(3);
     }
-    return 0;
-}
